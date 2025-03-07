@@ -42,7 +42,7 @@ This repository contains a Streamlit application that provides a no-code data sc
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/your-username/no-code-data-science-framework.git](https://www.google.com/search?q=https://github.com/your-username/no-code-data-science-framework.git)
+    git clone https://github.com/balamurukansu/ML_Framework.git
     cd no-code-data-science-framework
     ```
 
